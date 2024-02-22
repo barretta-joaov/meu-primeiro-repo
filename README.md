@@ -1,4 +1,6 @@
 # meu-primeiro-repo
 Meu repositório da faculdade
 
-estou alterando no remoto
+Estou alterando no remot!
+
+Estou alterando localmente!
